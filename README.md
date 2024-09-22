@@ -6,5 +6,5 @@ I write games, compilers, and various miscellaneous programs.
 
 //![](https://github-readme-stats-gamma-two-97.vercel.app/api/top-langs/?username=fooeyround&theme=github_dark&layout=compact&hide_progress=true)
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fooeyround)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?theme=dracula&username=fooeyround)
 
